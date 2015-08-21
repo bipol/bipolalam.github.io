@@ -1,0 +1,20 @@
+title: bipolar 
+email: bipolalam@gmail.com 
+description: "DND group" 
+baseurl: ""
+url: 
+twitter_username: bipolalam 
+github_username: bipolalam 
+google_username: bipolalam 
+instagram_username: bipolalam 
+
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+paginate: 5 #posts per page
+
