@@ -11,7 +11,7 @@ header-img: "img/post-bg-01.jpg"
 <h2 class="section-heading">Let's get started</h2>
 
 So, this is my first blog post - but we've already played a few games, characters have been rolled, yadda yadda yadda.
-We are playing the starter sets "The Mines of Phandalin" or whatever the heck it is called.  We're level 3 now, going swell.
+We are playing the starter sets "The Mines of Phandalin" or whatever the heck it is called.  We're level 3 now, and it is going swimmingly.
 
 I'll try to quickly summarise the party so these episodes aren't completely impossible to understand.
 
@@ -21,17 +21,17 @@ The Team
 ### Bismuth - The Meatbag
 
 Bismuth isn't your traditional dwarf cleric, throwing axes and hammering foes.  Bismuth was gifted with the art of inaccuracy, missing
-nearly every attack roll or skill check she must take.  Thankfully, being the meatbag of the team, Bismuth only needs to be a target and an occasional
-healer for the party
+nearly every attack roll or skill check she must take.  Thankfully, (being the meatbag of the team), Bismuth only needs to be a target and an occasional
+healer for the party.
 
 ### Jamarrow - The Idiot
 
-I can probably summarise Jamarrow with two words - Elf Bard.  Jamarrow has many titles, most notably being the Killer of Krag (of which is disputed by many of his own party). 
+I can probably summarise Jamarrow with two words - Elf Bard.  Jamarrow has many titles, most notably being the Killer of Krag (of which is disputed by many of the members within his own party). 
 Jamarrow often gets the party into dangerous yet exciting adventures, either through getting himself kidnapped, or rolling a 1 on a Charisma check.
 
 ### Eugene - The Noble One
 
-Eugene is a Human Fighter with a large bow.  He is usually the most rational one in the group, using his skills in Law Enforcement to diffuse situations, or to incorrectly judge
+Eugene is a Human Fighter with a large bow.  He is usually the most rational one in the group, using his skills in Law Enforcement to diffuse situations or to incorrectly judge
 the character of townsfolk.  
 
 ### Shiven - The Bloodletter
@@ -41,7 +41,7 @@ It didn't really work out as planned.
 
 ### Tim - F$&K!
 
-Tim is a Gnome.  Tim is a killer.  Tim is famous.  Tim decapitated a man once, to frighten his brother.  Tim hid in a barrel once, with said head.  Tim is a folk hero.
+Tim is a Gnome.  Tim is a killer.  Tim is famous.  Tim decapitated a man once to frighten his brother.  Tim hid in a barrel once, with said head.  Tim is a folk hero.
 
 ### ???? - ????
 
